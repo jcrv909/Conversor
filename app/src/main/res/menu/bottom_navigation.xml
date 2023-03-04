@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/longitudItem"
+        android:icon="@drawable/ico1"
+        android:title="Longitud" />
+    <item
+        android:id="@+id/pesoItem"
+        android:icon="@drawable/ico2"
+        android:title="Peso" />
+    <item
+        android:id="@+id/volumenItem"
+        android:icon="@drawable/ico3"
+        android:title="Volumen" />
+    <item
+        android:id="@+id/temperaturaItem"
+        android:icon="@drawable/ico4"
+        android:title="Temperatura" />
+</menu>
